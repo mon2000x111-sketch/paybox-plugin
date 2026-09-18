@@ -1,5 +1,6 @@
 {
   "name": "paybox",
+  "displayName": "PayBox",
   "version": "0.1.0",
   "description": "PayBox: a non-custodial wallet for agents. Swap and transfer tokens across chains, pay x402 services, take positions on prediction markets, and issue merchant-scoped virtual cards — with scoped, revocable access and passkey approval on sensitive operations.",
   "author": {
@@ -14,5 +15,6 @@
     "paybox x402",
     "paybox agent wallet"
   ],
-  "homepage": "https://paybox.sh"
+  "homepage": "https://paybox.sh",
+  "logo": "https://app.paybox.sh/icon.png"
 }
