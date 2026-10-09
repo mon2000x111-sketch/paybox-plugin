@@ -1,4 +1,4 @@
-# PayBox plugin
+#  PayBox plugin
 
 [PayBox](https://paybox.sh) is a non-custodial wallet for agents. This plugin connects your agent to
 it: swap and transfer tokens across chains, pay x402 services, take positions on prediction markets,
